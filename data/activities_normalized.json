@@ -9436,5 +9436,18 @@
     "start_date_local": "2026-03-01T09:33:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 5006.8,
+    "elevation_gain": 19.0,
+    "id": "17578698644",
+    "moving_time": 1744.0,
+    "name": "emplettes",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-02T18:30:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
