@@ -9501,5 +9501,18 @@
     "start_date_local": "2026-03-06T11:07:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 15004.6,
+    "elevation_gain": 41.0,
+    "id": "17659116561",
+    "moving_time": 4633.0,
+    "name": "15km progressif",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-09T12:13:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
