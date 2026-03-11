@@ -9514,5 +9514,31 @@
     "start_date_local": "2026-03-09T12:13:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 10009.0,
+    "elevation_gain": 33.0,
+    "id": "17674856874",
+    "moving_time": 3479.0,
+    "name": "footing",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-10T17:23:14Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 10009.0,
+    "elevation_gain": 38.0,
+    "id": "17684153274",
+    "moving_time": 3374.0,
+    "name": "bla-bla puis solo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-11T12:11:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
