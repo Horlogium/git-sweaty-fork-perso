@@ -9553,5 +9553,18 @@
     "start_date_local": "2026-03-12T12:10:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 13123.1,
+    "elevation_gain": 52.0,
+    "id": "17707200953",
+    "moving_time": 3986.0,
+    "name": "atelier piscine",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-13T12:08:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
