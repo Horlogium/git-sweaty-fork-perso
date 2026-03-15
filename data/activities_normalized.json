@@ -9566,5 +9566,31 @@
     "start_date_local": "2026-03-13T12:08:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 10016.8,
+    "elevation_gain": 32.0,
+    "id": "17722953994",
+    "moving_time": 3046.0,
+    "name": "finalement pas de sortie longue",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-14T18:44:24Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 15287.4,
+    "elevation_gain": 51.0,
+    "id": "17727545313",
+    "moving_time": 5210.0,
+    "name": "blabla",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T08:33:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
