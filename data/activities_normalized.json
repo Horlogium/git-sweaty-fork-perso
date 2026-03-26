@@ -9670,5 +9670,18 @@
     "start_date_local": "2026-03-21T10:00:20Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 10008.3,
+    "elevation_gain": 44.0,
+    "id": "17864516032",
+    "moving_time": 3305.0,
+    "name": "les coll\u00e8gues m\u2019ont forc\u00e9s",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-26T12:12:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
