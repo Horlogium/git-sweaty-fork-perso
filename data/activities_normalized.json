@@ -9683,5 +9683,18 @@
     "start_date_local": "2026-03-26T12:12:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 12826.6,
+    "elevation_gain": 317.0,
+    "id": "17887549111",
+    "moving_time": 4654.0,
+    "name": "5V de gravelle",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-28T11:55:06Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
