@@ -9696,5 +9696,18 @@
     "start_date_local": "2026-03-28T11:55:06Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 14933.2,
+    "elevation_gain": 52.0,
+    "id": "17899349877",
+    "moving_time": 4626.0,
+    "name": "sortie du dimanche",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-29T11:52:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
