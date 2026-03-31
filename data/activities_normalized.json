@@ -9709,5 +9709,31 @@
     "start_date_local": "2026-03-29T11:52:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 10440.1,
+    "elevation_gain": 38.0,
+    "id": "17915034408",
+    "moving_time": 3320.0,
+    "name": "course du soir ?",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-30T18:41:21Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 10000.6,
+    "elevation_gain": 41.0,
+    "id": "17923333971",
+    "moving_time": 3465.0,
+    "name": "blablarun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T12:13:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
