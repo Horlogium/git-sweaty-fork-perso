@@ -9735,5 +9735,18 @@
     "start_date_local": "2026-03-31T12:13:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 10755.3,
+    "elevation_gain": 44.0,
+    "id": "17946385469",
+    "moving_time": 3699.0,
+    "name": "boulot",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-02T08:02:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
