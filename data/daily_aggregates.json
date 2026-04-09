@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T16:08:51.156603+00:00",
+  "generated_at": "2026-04-09T16:13:08.632421+00:00",
   "years": {
     "2018": {
       "Run": {
@@ -6394,6 +6394,24 @@
           "distance": 10210.7,
           "elevation_gain": 34.0,
           "moving_time": 3243.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18030484429"
+          ],
+          "count": 1,
+          "distance": 16004.0,
+          "elevation_gain": 62.0,
+          "moving_time": 5666.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18039198746"
+          ],
+          "count": 1,
+          "distance": 10006.6,
+          "elevation_gain": 35.0,
+          "moving_time": 3348.0
         }
       },
       "Snowboard": {

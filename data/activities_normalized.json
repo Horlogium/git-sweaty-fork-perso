@@ -9813,5 +9813,31 @@
     "start_date_local": "2026-04-07T19:00:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 16004.0,
+    "elevation_gain": 62.0,
+    "id": "18030484429",
+    "moving_time": 5666.0,
+    "name": "Allou-reterr",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T17:51:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 10006.6,
+    "elevation_gain": 35.0,
+    "id": "18039198746",
+    "moving_time": 3348.0,
+    "name": "blablarun sous le soleil",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-09T12:10:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
