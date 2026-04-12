@@ -5305,6 +5305,34 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 15,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 16,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 19,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 20,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11728,6 +11756,16 @@
           "distance": 7018.5,
           "elevation_gain": 12.0,
           "moving_time": 2565.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18068205861",
+            "18068214128"
+          ],
+          "count": 2,
+          "distance": 11042.2,
+          "elevation_gain": 40.0,
+          "moving_time": 2905.0
         }
       },
       "Snowboard": {
@@ -11957,11 +11995,21 @@
           "distance": 12011.4,
           "elevation_gain": 359.0,
           "moving_time": 4491.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18070770408",
+            "18070774416"
+          ],
+          "count": 2,
+          "distance": 12129.0,
+          "elevation_gain": 275.0,
+          "moving_time": 3904.0
         }
       }
     }
   },
-  "generated_at": "2026-04-11T15:24:17.305958+00:00",
+  "generated_at": "2026-04-12T15:28:09.600798+00:00",
   "other_bucket": "OtherSports",
   "repo": "Horlogium/git-sweaty-fork-perso",
   "source": "strava",

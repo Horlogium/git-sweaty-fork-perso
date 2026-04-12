@@ -9852,5 +9852,57 @@
     "start_date_local": "2026-04-10T18:03:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 1206.1,
+    "elevation_gain": 0.0,
+    "id": "18068205861",
+    "moving_time": 466.0,
+    "name": "pire \u00e9chauffement",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T15:58:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 9836.1,
+    "elevation_gain": 40.0,
+    "id": "18068214128",
+    "moving_time": 2439.0,
+    "name": "Hourcancilloise 2026 - partie 1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T16:28:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 611.9,
+    "elevation_gain": 0.0,
+    "id": "18070770408",
+    "moving_time": 259.0,
+    "name": "\u00e9chauffement post bi\u00e8re gaufre",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-11T19:41:44Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 11517.1,
+    "elevation_gain": 275.0,
+    "id": "18070774416",
+    "moving_time": 3645.0,
+    "name": "Hourcancilloise 2026 - Petit trail - 8eme",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-11T20:00:17Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
