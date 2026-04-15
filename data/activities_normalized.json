@@ -9930,5 +9930,31 @@
     "start_date_local": "2026-04-13T18:33:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 20013.9,
+    "elevation_gain": 659.0,
+    "id": "18108291293",
+    "moving_time": 7556.0,
+    "name": "SL du mardi - 12V",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-14T17:51:16Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 10060.0,
+    "elevation_gain": 37.0,
+    "id": "18116883850",
+    "moving_time": 3390.0,
+    "name": "blablarun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-15T12:20:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
