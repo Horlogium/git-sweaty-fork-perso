@@ -9956,5 +9956,18 @@
     "start_date_local": "2026-04-15T12:20:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 10379.9,
+    "elevation_gain": 34.0,
+    "id": "18141292536",
+    "moving_time": 2977.0,
+    "name": "5km seuil",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-17T07:59:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
