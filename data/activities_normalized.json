@@ -9969,5 +9969,18 @@
     "start_date_local": "2026-04-17T07:59:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 10184.9,
+    "elevation_gain": 36.0,
+    "id": "18153375123",
+    "moving_time": 3132.0,
+    "name": "running du matin",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T07:59:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
