@@ -9982,5 +9982,18 @@
     "start_date_local": "2026-04-18T07:59:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 10362.7,
+    "elevation_gain": 35.0,
+    "id": "18166784740",
+    "moving_time": 3237.0,
+    "name": "running du mat2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T07:51:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
