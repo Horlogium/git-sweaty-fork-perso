@@ -9995,5 +9995,31 @@
     "start_date_local": "2026-04-19T07:51:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 10305.8,
+    "elevation_gain": 34.0,
+    "id": "18186822032",
+    "moving_time": 3234.0,
+    "name": "les tours s\u2019encha\u00eenent et se ressemblent",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-20T18:18:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 10225.8,
+    "elevation_gain": 61.0,
+    "id": "18195861229",
+    "moving_time": 3501.0,
+    "name": "20 x 30-30",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T12:12:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
