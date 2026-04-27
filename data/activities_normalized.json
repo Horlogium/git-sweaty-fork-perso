@@ -10060,5 +10060,31 @@
     "start_date_local": "2026-04-24T11:08:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 5004.0,
+    "elevation_gain": 17.0,
+    "id": "18271500839",
+    "moving_time": 1742.0,
+    "name": "fin de la semaine de recup",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T22:02:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 14505.8,
+    "elevation_gain": 33.0,
+    "id": "18276994194",
+    "moving_time": 4203.0,
+    "name": "30 x 30-30",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T12:04:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
