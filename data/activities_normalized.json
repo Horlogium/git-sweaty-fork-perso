@@ -10086,5 +10086,18 @@
     "start_date_local": "2026-04-27T12:04:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 10063.3,
+    "elevation_gain": 47.0,
+    "id": "18290438214",
+    "moving_time": 3635.0,
+    "name": "blablarun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-28T12:12:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
