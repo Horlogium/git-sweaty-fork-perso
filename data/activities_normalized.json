@@ -10112,5 +10112,18 @@
     "start_date_local": "2026-04-29T12:10:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 10005.7,
+    "elevation_gain": 46.0,
+    "id": "18317422274",
+    "moving_time": 3050.0,
+    "name": "footing solo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T12:01:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
