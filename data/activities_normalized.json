@@ -10307,5 +10307,18 @@
     "start_date_local": "2026-05-13T12:12:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 10008.0,
+    "elevation_gain": 27.0,
+    "id": "18501800761",
+    "moving_time": 3327.0,
+    "name": "vacances avec le kac",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-14T11:26:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
