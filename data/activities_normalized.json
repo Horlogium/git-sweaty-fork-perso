@@ -10320,5 +10320,18 @@
     "start_date_local": "2026-05-14T11:26:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 10009.8,
+    "elevation_gain": 53.0,
+    "id": "18518864491",
+    "moving_time": 3814.0,
+    "name": "afternoon KAC",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T17:23:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
