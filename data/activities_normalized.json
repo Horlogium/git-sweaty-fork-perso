@@ -10333,5 +10333,18 @@
     "start_date_local": "2026-05-15T17:23:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 19143.0,
+    "elevation_gain": 1241.0,
+    "id": "18527569680",
+    "moving_time": 10821.0,
+    "name": "sortie longue avec le kac",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-16T09:26:41Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
