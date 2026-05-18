@@ -10346,5 +10346,31 @@
     "start_date_local": "2026-05-16T09:26:41Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 10844.2,
+    "elevation_gain": 34.0,
+    "id": "18546282275",
+    "moving_time": 3060.0,
+    "name": "d\u00e9prime sous la pluie",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T18:15:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 7007.9,
+    "elevation_gain": 34.0,
+    "id": "18553007708",
+    "moving_time": 2621.0,
+    "name": "blablarun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-18T12:09:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
