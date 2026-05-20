@@ -5592,6 +5592,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 12,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12305,6 +12312,15 @@
           "distance": 12300.2,
           "elevation_gain": 37.0,
           "moving_time": 4029.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18580148739"
+          ],
+          "count": 1,
+          "distance": 6122.0,
+          "elevation_gain": 18.0,
+          "moving_time": 1810.0
         }
       },
       "Snowboard": {
@@ -12593,7 +12609,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:33:51.211124+00:00",
+  "generated_at": "2026-05-20T17:49:15.991552+00:00",
   "other_bucket": "OtherSports",
   "repo": "Horlogium/git-sweaty-fork-perso",
   "source": "strava",
