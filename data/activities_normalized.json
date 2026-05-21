@@ -10398,5 +10398,18 @@
     "start_date_local": "2026-05-20T12:40:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 10125.0,
+    "elevation_gain": 36.0,
+    "id": "18593572714",
+    "moving_time": 3448.0,
+    "name": "pont caillou",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-21T12:11:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
