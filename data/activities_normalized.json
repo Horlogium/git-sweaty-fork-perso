@@ -10463,5 +10463,31 @@
     "start_date_local": "2026-05-24T20:50:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 10302.2,
+    "elevation_gain": 32.0,
+    "id": "18666486977",
+    "moving_time": 3214.0,
+    "name": "ramenez moi en su\u00e8de",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T21:33:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 5071.2,
+    "elevation_gain": 37.0,
+    "id": "18677880707",
+    "moving_time": 1642.0,
+    "name": "je sais pas qui acclimate l\u2019autre",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T18:49:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
