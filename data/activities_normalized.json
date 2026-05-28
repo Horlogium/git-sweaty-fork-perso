@@ -10489,5 +10489,18 @@
     "start_date_local": "2026-05-27T18:49:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 5081.2,
+    "elevation_gain": 38.0,
+    "id": "18691623389",
+    "moving_time": 1683.0,
+    "name": "plancha simulator",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-28T18:39:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
