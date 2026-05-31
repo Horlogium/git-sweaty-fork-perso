@@ -10515,5 +10515,18 @@
     "start_date_local": "2026-05-30T09:45:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 54491.6,
+    "elevation_gain": 1746.0,
+    "id": "18726243790",
+    "moving_time": 23530.0,
+    "name": "T3R - DNF",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-31T05:09:25Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
