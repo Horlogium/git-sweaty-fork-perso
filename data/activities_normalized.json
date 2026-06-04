@@ -10528,5 +10528,18 @@
     "start_date_local": "2026-05-31T05:09:25Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 9754.3,
+    "elevation_gain": 52.0,
+    "id": "18782020949",
+    "moving_time": 3351.0,
+    "name": "blablarun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T12:11:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
