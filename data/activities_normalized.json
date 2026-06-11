@@ -10580,5 +10580,18 @@
     "start_date_local": "2026-06-09T20:20:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 6828.8,
+    "elevation_gain": 198.0,
+    "id": "18868209619",
+    "moving_time": 2728.0,
+    "name": "dios mio c\u2019est pas plat",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T13:08:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
