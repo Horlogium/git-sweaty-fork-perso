@@ -10593,5 +10593,18 @@
     "start_date_local": "2026-06-10T13:08:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 10457.5,
+    "elevation_gain": 42.0,
+    "id": "18884441743",
+    "moving_time": 3393.0,
+    "name": "warerfront trail",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-11T18:35:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
