@@ -10658,5 +10658,18 @@
     "start_date_local": "2026-06-21T12:18:32Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 5341.2,
+    "elevation_gain": 25.0,
+    "id": "19121607517",
+    "moving_time": 1863.0,
+    "name": "blablarun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T12:08:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
